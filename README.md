@@ -37,13 +37,13 @@ The TrollsMe App is the ultimate TrollStore application, incorporating all Troll
 
 ![TrollsMe Icon](https://github.com/iOSGuides/installing-trollstore/assets/173868638/5de1c44a-deeb-43aa-9caa-3bbe63e98a7d)
 
-[Download TrollsMe TrollStore](https://iospack.com/apps/trollsme-trollstore/)
+[Download TrollsMe TrollStore](https://iwixer.com/trollsme-trollstore-downloader/)
 
 ## Adding Other IPA Files to TrollStore 2
 
 Follow these steps to effortlessly add other IPA files to TrollStore 2:
 
-1. [Download the IPA file](https://iospack.com/apps/trollsme-trollstore/) using Safari.
+1. [Download the IPA file](https://iwixer.com/itweaked-apps-library/) using Safari.
 2. In the Downloads section, locate the IPA file and tap on it to open the share sheet.
 3. Choose the TrollStore icon from the options to import the IPA into TrollStore 2.
 4. Once completed, open the TrollStore 2 application to view and manage the installed IPAs. Access the home screen to conveniently launch the installed IPA apps.
@@ -85,7 +85,7 @@ Bootstra AI Jailbreak is a pioneering tool that introduces AI-powered jailbreak 
 
 ![Bootstra AI Jailbreak for TrollStore 2](https://github.com/iOSGuides/installing-trollstore/assets/173868638/05d0793b-ad8a-40be-9214-32d6d3695746)
 
-[Install Bootstra AI Jailbreak](https://github.com/BootstraAI/bootstra-ai)
+[Install Bootstra AI Jailbreak](https://iospack.com/apps/bootstra-ai/)
 
 ## Install TrollStore Using Misaka for iOS 16.2 to 16.5 and 16.6 Beta 1
 
